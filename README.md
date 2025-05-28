@@ -8,6 +8,15 @@
 👋 Hi, I’m Atharv Agarwal — a Computer Science student at VIT passionate about building smart, impactful tech.<br>💻 I love working on Android apps, IoT systems, and integrating AI & cloud services to solve real-world problems.<br>🚀 Projects like Smart House & Smart Nav reflect my focus on user-centric design and performance.<br>📊 I also enjoy exploring data analysis, machine learning, and system optimization.<br>🔗 Let’s connect & build something cool!
 
 ---
+## 📌 Featured Projects
+
+🔧 [**Smart House**](https://github.com/AtharvAg84/Smart_House_Android_Application)  
+IoT-based home automation system with Bluetooth & Wi-Fi support + Firebase integration.
+
+🗺️ [**Smart Nav**](https://github.com/AtharvAg84/SmartNav)  
+3D navigation Android app with live train status, Dijkstra’s algorithm, and emergency integrations.
+
+---
 ## **Tech Stack**
 
 **🔤 Programming Languages:**  
@@ -40,14 +49,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AtharvAg84&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-## 📌 Featured Projects
-
-🔧 [**Smart House**](https://github.com/AtharvAg84/Smart_House_Android_Application)  
-IoT-based home automation system with Bluetooth & Wi-Fi support + Firebase integration.
-
-🗺️ [**Smart Nav**](https://github.com/AtharvAg84/SmartNav)  
-3D navigation Android app with live train status, Dijkstra’s algorithm, and emergency integrations.
 
 ---
 
