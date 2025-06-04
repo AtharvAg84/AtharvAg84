@@ -40,7 +40,7 @@ IoT-based home automation system with Bluetooth & Wi-Fi support + Firebase integ
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AtharvAg84&theme=merko&hide_border=true&include_all_commits=true&count_private=true)<br/> ![](https://nirzak-streak-stats.vercel.app/?user=AtharvAg84&theme=merko&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=AtharvAg84&theme=merko&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AtharvAg84&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ### 🔝 Top Contributed Repo
