@@ -1,7 +1,6 @@
 🎓 Computer Science Undergrad @ VIT | 📊 Data Science Enthusiast | 📱 Android Developer | 🚀 Innovator  
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://linkedin.com/in/atharv-ag84)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode&style=flat-square)](https://leetcode.com/u/Arth8484/)  
 [![Gmail](https://img.shields.io/badge/Gmail-atharv8484@gmail.com-red?logo=gmail&style=flat-square)](mailto:atharv8484@gmail.com)
 
 # 💫 About Me:
