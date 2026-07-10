@@ -9,18 +9,23 @@
   <a href="https://www.linkedin.com/in/atharv-ag84/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:atharv8484@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://atharvag84.github.io/My-Portfolio/"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/Arth8484/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" /></a>
+  <!-- <a href="https://leetcode.com/u/Arth8484/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" /></a> -->
 </p>
 
 ---
 
 ### 💡 About Me
 
-I like building systems that sit between data, intelligence, and the people who use them. Recently that's meant designing an LLM agent with tool-calling for data pipeline diagnostics on Databricks, building RAG pipelines over vector search + Delta tables, and shipping MCP-based tools that let AI models query real datasets instead of guessing. Before that, it was Android + IoT — navigation apps, home automation, and systems that had to work reliably with real hardware and real users.
+I like building systems that sit between data, intelligence, and the people who use them — and I like being able to point to a number when I explain why something I built matters.
 
-What ties it together: I'm drawn to projects where I have to reason about both the system design and the data flowing through it — whether that's a Databricks pipeline, a molecular database with 120M+ records, or an Android app syncing with Firestore in real time.
+- 🤖 Built an **LLM agent with tool-calling** on Databricks to answer pipeline diagnostic questions, backed by **RAG over vector search + Delta tables**
+- 🧬 Shipped a compound database platform handling **120M+ molecular records** with MCP-based AI query generation
+- 📱 Built Android/IoT systems processing **100MB+ of daily data**, with measurable gains in speed (**~30% faster** pathfinding) and efficiency (**~20-25%** latency/energy improvements)
+- 🏆 National Semi-Finalist, Flipkart GRiD 7.0 (top 50 of 50,000+ participants) · Indian Design Patent holder
 
-Currently exploring: agentic AI systems (MCP, tool-calling, RAG), and applying LLMs to structured/technical data rather than open-ended chat.
+What ties it together: I care about **systems that have to be correct, not just clever** — whether that's validating data across bronze/silver/gold layers, or making sure an Android app doesn't drop a Bluetooth connection mid-automation.
+
+**Currently exploring:** agentic AI systems (MCP, tool-calling, RAG) and applying LLMs to structured/technical data rather than open-ended chat.
 
 ---
 
@@ -49,19 +54,19 @@ Currently exploring: agentic AI systems (MCP, tool-calling, RAG), and applying L
 ### 🚀 Featured Projects
 
 **[Fixed-Deposit-Tracker](https://github.com/AtharvAg84/Fixed-Deposit-Tracker)** — `Python` `FastMCP` `FastAPI` `React`
-Live FD interest-rate comparison across major Indian banks (SBI, ICICI, Kotak), scraped in real time and served through a FastMCP server + FastAPI bridge to a React frontend. Interesting because it uses MCP not for chat, but as the query layer between an AI classifier and live financial data — pairing rate comparisons with risk-based recommendations.
+The talking point: MCP used as an **AI-to-live-data query layer**, not a chatbot. Real-time FD rate scraping across SBI, ICICI, and Kotak, served through a FastMCP server + FastAPI bridge, with a classifier layer matching rates to a user's risk profile.
 
 **[SmartNav-Railway-Navigation-App](https://github.com/AtharvAg84/SmartNav-Railway-Navigation-App)** — `Kotlin` `Android Studio` `Firebase` `Maps API`
-3D Android navigation app implementing Dijkstra's algorithm and BFS for real-time pathfinding (~30% faster routing), with Firestore-backed live train tracking and emergency-service alerts processing 100MB+ of data daily.
+The talking point: implementing **Dijkstra's algorithm and BFS from scratch** for real-time pathfinding (~30% faster routing) instead of relying on a maps SDK, plus Firestore-backed live train tracking handling 100MB+/day.
 
 **[Smart_House_Android_Application](https://github.com/AtharvAg84/Smart_House_Android_Application)** — `Kotlin` `Firebase` `Arduino` `IoT`
-Home automation system controlling appliances over Wi-Fi/Bluetooth from an Android app, with real-time sync and automated scheduling. Focused on cutting response latency and energy usage in a system that has to bridge software and physical hardware reliably.
+The talking point: keeping a **software-to-hardware control loop reliable** over Wi-Fi/Bluetooth — real-time sync and scheduling that measurably cut response latency and energy use, not just a demo that works once.
 
 **[The-Ultimate-Manager](https://github.com/AtharvAg84/The-Ultimate-Manager)** — `Python` `MySQL` `SQL`
-A database management system project exploring schema design, connectivity, and CRUD workflows between Python and MySQL — the fundamentals-first counterpart to the AI-heavy projects above.
+The talking point: schema design and CRUD fundamentals done properly — a deliberate, simpler counterpart to the AI-heavy projects above, useful for showing SQL/data-modeling basics are solid.
 
 **[eXpense-Tracker](https://github.com/AtharvAg84/eXpense-Tracker)** — `HTML` `CSS` `JavaScript`
-A web app for tracking personal finances — user registration, transaction logging, and savings goals — built as a full end-to-end CRUD application.
+The talking point: a complete auth-to-database CRUD flow (register, log in, record transactions, set savings goals) built without a framework — good for discussing fundamentals over abstractions.
 
 ---
 
@@ -84,4 +89,4 @@ A web app for tracking personal finances — user registration, transaction logg
 
 ### 📫 Connect
 
-[LinkedIn](https://www.linkedin.com/in/atharv-ag84/) · [Email](mailto:atharv8484@gmail.com) · [Portfolio](https://atharvag84.github.io/My-Portfolio/) · [LeetCode](https://leetcode.com/u/Arth8484/)
+[LinkedIn](https://www.linkedin.com/in/atharv-ag84/) · [Email](mailto:atharv8484@gmail.com) · [Portfolio](https://atharvag84.github.io/My-Portfolio/)
