@@ -78,15 +78,6 @@ The talking point: a complete auth-to-database CRUD flow (register, log in, reco
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AtharvAg84&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtharvAg84&layout=compact&hide_border=true" />
-</p>
-
----
-
 ### 📫 Connect
 
 [LinkedIn](https://www.linkedin.com/in/atharv-ag84/) · [Email](mailto:atharv8484@gmail.com) · [Portfolio](https://atharvag84.github.io/My-Portfolio/)
